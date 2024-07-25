@@ -24,7 +24,7 @@ const Calender = () => {
   return (
     <div className='container'>
         <div className="row d-flex align-items-center">
-            <div className="col-md-6 col-sm-11 ">
+            <div className="col-md-4 col-sm-11 ">
                 <div className="clndr ">
                 <div className="navigate-dade d-flex justify-content-between">
                     <div className="yearsMonth  d-flex  justify-content-between gap-4">
