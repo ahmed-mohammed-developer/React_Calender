@@ -9,7 +9,7 @@
 }
 .yearsMonth h2{
     color: #ddd;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .buttons {
@@ -24,16 +24,16 @@
     align-items: center;
     background-color: #ddd;
     color: #00ab67;
-    font-size: 3rem;
+    font-size: 2rem;
     border-radius: 1rem;
     cursor: pointer;
 }
 .weekdaye {
     width: 100%;
-    height: 3rem;
+    height: 2rem;
     margin: 1rem 0;
     color: #ddd;   
-    font-size: 2rem; 
+    font-size: 1rem; 
 }
 .weekdaye span {
     width: calc(100% / 7);
@@ -49,7 +49,7 @@
 .days span {
     width: calc(100% / 7);
     aspect-ratio: 1;
-    font-size: 2rem;
+    font-size: 1rem;
     color: #ddd;
     display: flex;
     justify-content: center;
@@ -57,7 +57,7 @@
     cursor: pointer;
 }
 .current-day {
-    font-size: 2rem !important;
+    font-size: 1rem !important;
     color: #00ab67 !important;
     background-color: #ddd;
     border-radius: 1rem;
